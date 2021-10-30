@@ -3,7 +3,7 @@
 This example is created for testing:
 -  Serial connection
 -  Testing two dynamixel motors (eg. MX-28AT)
--  Doing the conversion from absolute encoder (of dynamixel motors) to incremental encoder
+-  ***Doing the conversion from absolute encoder (of dynamixel motors) to incremental encoder***
 
 With this, one can use the dynamixel motors for several applications:
 -  Control robotic arms (serial or parallel types) - which often use absolute encoders
