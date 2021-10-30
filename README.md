@@ -27,3 +27,8 @@ With this, one can use the dynamixel motors for several applications:
 > Q1,Q2 are in the range of [0, 4095] (12 bit absolute encoder). For MX-28AT motors, unit in position = 0.088 deg
 
 > QP1, QP2 are in the range of [0, 1023] for positive direction (CCW) and ([1024,2047] for negative direction (CW). For MX-28AT motors, unit in speed = 0.114 rpm
+
+# GUI example:
+<p align="center">
+  <img src="https://github.com/ibov/Q_dxl/blob/main/SerialMonitor_2021-10-30.png" width="700" title="hover text">
+</p> 
